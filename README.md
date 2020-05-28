@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fyyur
 -----
 
@@ -141,3 +142,7 @@ To start and run the local development server,
   ```
 
 4. Navigate to Home page [http://localhost:5000](http://localhost:5000)
+=======
+# Udacity-Fyyur-Booking-Site
+Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner. 
+>>>>>>> 0fe736ec69c2a5be00d2cdfe8b72db23735b6337
